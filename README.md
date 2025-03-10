@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ##contents
 
-This is a frontend challenge that involves building a "Contact Us" form and a Blog Listing Page using React.js or Next.js. The project includes:
+This is a frontend challenge that involves building a "Contact Us" form and a Blog Listing Page using React.js. The project includes:
 
 Form validation
 API integration
@@ -14,11 +14,11 @@ Responsive Design
 Tech stack
 
 
-React Vite
-Javascript
-css
-html
-vercel
+1.React Vite
+2.Javascript
+3.css
+4.html
+5.vercel
 
 ####Features ✨
 
@@ -28,4 +28,6 @@ Blog Listing Page with filtering & pagination
 Dynamic Data Fetching from an API
 Fully Responsive Design
 Optimized for Performance
+
+Deployment : Vercel
 
