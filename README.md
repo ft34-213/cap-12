@@ -19,19 +19,30 @@ Tech stack
 
 
 1.React Vite
+
 2.Javascript
+
 3.css
+
 4.html
+
 5.vercel
+
 
 ####Features ✨
 
 
 Contact Us Form with validation
+
 Blog Listing Page with filtering & pagination
+
 Dynamic Data Fetching from an API
+
 Fully Responsive Design
+
 Optimized for Performance
+
+
 
 Deployment : Vercel
 
