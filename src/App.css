@@ -1,0 +1,38 @@
+.blog-filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.blog-filters input,
+.blog-filters select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.blog-filters button {
+  padding: 8px 12px;
+  background: #007bff;
+  color: greenyellow;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.blog-filters button:hover {
+  background: #0056b3;
+}
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  background-color: #f4f4f4; /* Light background */
+}
+
+.h2{
+  color:rgba(110, 228, 136, 0.87);
+  
+}
