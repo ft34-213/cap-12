@@ -7,9 +7,13 @@ This template provides a minimal setup to get React working in Vite with HMR and
 This is a frontend challenge that involves building a "Contact Us" form and a Blog Listing Page using React.js. The project includes:
 
 Form validation
+
 API integration
+
 Filtering
+
 Responsive Design
+
 
 Tech stack
 
